@@ -368,20 +368,6 @@ ecommerce-sql-business-analysis/
 
 │
 
-├── images/
-
-│   ├── revenue_by_year.png
-
-│   ├── revenue_by_month.png
-
-│   ├── top_products.png
-
-│   ├── top_countries.png
-
-│   └── customer_spending.png
-
-│
-
 ├── ETL/
 
 │   └── excel_to_postgresql.py
