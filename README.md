@@ -370,7 +370,9 @@ ecommerce-sql-business-analysis/
 
 ├── ETL/
 
-│   └── excel_to_postgresql.py
+|   ├── excel_to_postgresql.py
+
+│   └── Queries.md
 
 │
 
